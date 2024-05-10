@@ -1,0 +1,8 @@
+{
+    "app_id": "alerta-sudestada-app-kfwjtaa",
+    "config_version": 20210101,
+    "name": "alerta-sudestada-app",
+    "provider_region": "aws-sa-east-1",
+    "deployment_model": "LOCAL",
+    "environment": "production"
+}
